@@ -1,0 +1,505 @@
+{
+  "version": "2025-05-26T12:08:44+09:00",
+  "list": [
+    {
+      "id": "1",
+      "code": "GT",
+      "name": "ガスト",
+      "food_menu_url": "https://www.skylark.co.jp/gusto/menu/index.html",
+      "table_orderable": true,
+      "app_table_payment": true,
+      "etc": false,
+      "order": 1,
+      "color": {
+        "main_color": "#d2000f",
+        "gradient_from_color": "#fb6742",
+        "gradient_to_color": "#d0031a"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a233-71bc-4403-a2c4-54a65cb33a64",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a233-71bc-4403-a2c4-54a65cb33a64",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/9d87fc68-dbb5-4325-8338-8de1df89a07d"
+      }
+    },
+    {
+      "id": "2",
+      "code": "BM",
+      "name": "バーミヤン",
+      "food_menu_url": "https://www.skylark.co.jp/bamiyan/menu/index.html",
+      "table_orderable": true,
+      "app_table_payment": true,
+      "etc": false,
+      "order": 2,
+      "color": {
+        "main_color": "#d44897",
+        "gradient_from_color": "#006441",
+        "gradient_to_color": "#233881"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a26c-8762-40b1-8210-8884e1f17d7c",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a26c-8762-40b1-8210-8884e1f17d7c",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/95ef054f-55be-4ae1-a66b-d981d475747f"
+      }
+    },
+    {
+      "id": "3",
+      "code": "JS",
+      "name": "ジョナサン",
+      "food_menu_url": "https://www.skylark.co.jp/jonathan/menu/index.html",
+      "table_orderable": true,
+      "app_table_payment": true,
+      "etc": false,
+      "order": 3,
+      "color": {
+        "main_color": "#d8213b",
+        "gradient_from_color": "#ff9d76",
+        "gradient_to_color": "#dd5f24"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a2a3-bfe0-4cb1-9afa-352824b01c10",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a2a3-bfe0-4cb1-9afa-352824b01c10",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/8edae421-3f89-4877-87f6-5b1cb652e2d7"
+      }
+    },
+    {
+      "id": "8",
+      "code": "SS",
+      "name": "しゃぶ葉",
+      "food_menu_url": "https://www.skylark.co.jp/syabuyo/menu/index.html",
+      "table_orderable": true,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 4,
+      "color": {
+        "main_color": "#04512a",
+        "gradient_from_color": "#009149",
+        "gradient_to_color": "#03502b"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a3d7-4de9-4185-b558-3b906b6ad4e7",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a3d7-4de9-4185-b558-3b906b6ad4e7",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/information/banner/8f6f5c33-abf3-49b9-bed9-1c7b540f01c3"
+      }
+    },
+    {
+      "id": "4",
+      "code": "YM",
+      "name": "夢庵",
+      "food_menu_url": "https://www.skylark.co.jp/yumean/menu/index.html",
+      "table_orderable": true,
+      "app_table_payment": true,
+      "etc": false,
+      "order": 5,
+      "color": {
+        "main_color": "#a03237",
+        "gradient_from_color": "#ef8288",
+        "gradient_to_color": "#9f3337"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a2fb-14db-4012-9956-cb457c40bb53",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a2fb-14db-4012-9956-cb457c40bb53",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/9a93fb77-8a4a-42ca-b77d-92e5349e29b1"
+      }
+    },
+    {
+      "id": "5",
+      "code": "ST",
+      "name": "ステーキガスト",
+      "food_menu_url": "https://www.skylark.co.jp/steak_gusto/menu/index.html",
+      "table_orderable": true,
+      "app_table_payment": true,
+      "etc": false,
+      "order": 6,
+      "color": {
+        "main_color": "#733c1e",
+        "gradient_from_color": "#bb7751",
+        "gradient_to_color": "#733c1d"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a35c-11b2-4af2-b526-6e344fa6e25a",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a35c-11b2-4af2-b526-6e344fa6e25a",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/8edae465-47f1-4b1a-8bbe-4bcfe2a5b10e"
+      }
+    },
+    {
+      "id": "6",
+      "code": "GG",
+      "name": "グラッチェガーデンズ",
+      "food_menu_url": "https://www.skylark.co.jp/grazie_gardens/menu/index.html",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 7,
+      "color": {
+        "main_color": "#008c41",
+        "gradient_from_color": "#00c25a",
+        "gradient_to_color": "#028c41"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a388-274b-4476-a9e9-24473436554d",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a388-274b-4476-a9e9-24473436554d",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/95ef0700-54e6-4b86-a366-d51a948a9f7e"
+      }
+    },
+    {
+      "id": "7",
+      "code": "AY",
+      "name": "藍屋",
+      "food_menu_url": "https://www.skylark.co.jp/aiya/menu/index.html",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 8,
+      "color": {
+        "main_color": "#004687",
+        "gradient_from_color": "#0375e1",
+        "gradient_to_color": "#014586"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a3ab-d9a0-4ce6-8a66-cc7ce942f9c7",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a3ab-d9a0-4ce6-8a66-cc7ce942f9c7",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/9a99d4f9-00d1-4b51-bae8-b8d0905d7f1b"
+      }
+    },
+    {
+      "id": "20",
+      "code": "MC",
+      "name": "むさしの森珈琲",
+      "food_menu_url": "https://www.skylark.co.jp/mmcoffee/menu/index.html",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 9,
+      "color": {
+        "main_color": "#804000",
+        "gradient_from_color": "#804000",
+        "gradient_to_color": "#b75b00"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8e9e5c05-0be2-42f7-a976-96cd244380e8",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8e9e5c05-0be2-42f7-a976-96cd244380e8",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/8edae663-f7c2-4a67-bb77-fbe8259ed90a"
+      }
+    },
+    {
+      "id": "11",
+      "code": "TT",
+      "name": "魚屋路",
+      "food_menu_url": "https://www.skylark.co.jp/totoyamichi/menu/index.html",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 11,
+      "color": {
+        "main_color": "#18265d",
+        "gradient_from_color": "#324aa7",
+        "gradient_to_color": "#18265d"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a473-e45a-4f7c-9ed9-1d4a330a6405",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a473-e45a-4f7c-9ed9-1d4a330a6405",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/9a99a1f2-9a37-4c0a-8397-432c7071c079"
+      }
+    },
+    {
+      "id": "12",
+      "code": "CH",
+      "name": "Chawan",
+      "food_menu_url": "https://www.skylark.co.jp/chawan/menu/index.html",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 12,
+      "color": {
+        "main_color": "#6c9669",
+        "gradient_from_color": "#a4c3a2",
+        "gradient_to_color": "#6c9669"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a49b-55ed-43db-8a75-fdf37b9d666e",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a49b-55ed-43db-8a75-fdf37b9d666e",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/95ef0514-e290-4caf-b701-7fcd23d36e44"
+      }
+    },
+    {
+      "id": "13",
+      "code": "KS",
+      "name": "から好し",
+      "food_menu_url": "https://www.skylark.co.jp/karayoshi/menu/index.html",
+      "table_orderable": true,
+      "app_table_payment": true,
+      "etc": false,
+      "order": 13,
+      "color": {
+        "main_color": "#b81201",
+        "gradient_from_color": "#e83c2b",
+        "gradient_to_color": "#b81201"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a4d4-8f2f-42fb-9740-1af7fd085a2b",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a4d4-8f2f-42fb-9740-1af7fd085a2b",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/8edae57a-aa86-40af-ac8c-d8588b72ac05"
+      }
+    },
+    {
+      "id": "14",
+      "code": "TR",
+      "name": "とんから亭",
+      "food_menu_url": "https://www.skylark.co.jp/tonkara_tei/menu/index.html",
+      "table_orderable": true,
+      "app_table_payment": true,
+      "etc": false,
+      "order": 14,
+      "color": {
+        "main_color": "#8b2f32",
+        "gradient_from_color": "#ba6366",
+        "gradient_to_color": "#8b2f32"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a4ff-3524-40e8-bc73-f78119c635de",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a4ff-3524-40e8-bc73-f78119c635de",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/8edae5c6-08d5-4c3d-bbdc-ab8ff1a35c15"
+      }
+    },
+    {
+      "id": "15",
+      "code": "YD",
+      "name": "ゆめあん食堂",
+      "food_menu_url": "https://www.skylark.co.jp/ym_shokudo/menu/index.html",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 15,
+      "color": {
+        "main_color": "#1a1919",
+        "gradient_from_color": "#6a6262",
+        "gradient_to_color": "#1a1919"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9ce0c0b8-7cae-4956-98b6-52635435d27d",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9ce0c0ba-a6b5-454d-a2dd-7f331137ef8f",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/8edae5e4-ce78-49f7-a334-5040b790d245"
+      }
+    },
+    {
+      "id": "22",
+      "code": "HW",
+      "name": "ラ・オハナ",
+      "food_menu_url": "https://www.skylark.co.jp/la_ohana/menu/index.html",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 16,
+      "color": {
+        "main_color": "#72b0a0",
+        "gradient_from_color": "#72b0a0",
+        "gradient_to_color": "#b1fbe8"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/92513265-8aea-48c4-8763-34b45f5d6674",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/92513265-8aea-48c4-8763-34b45f5d6674",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/92514356-bd5e-4c5a-b8e9-43370574e0d8"
+      }
+    },
+    {
+      "id": "25",
+      "code": "YC",
+      "name": "桃菜",
+      "food_menu_url": "https://www.skylark.co.jp/tohsai/",
+      "table_orderable": false,
+      "app_table_payment": true,
+      "etc": false,
+      "order": 17,
+      "color": {
+        "main_color": "#e67cab",
+        "gradient_from_color": "#795433",
+        "gradient_to_color": "#ffb4bb"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/986ab6c9-dc8b-4e66-bdcd-1e61a7288674",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/986ab6c9-dc8b-4e66-bdcd-1e61a7288674",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/986ab6ca-511f-4624-9ff2-f9b45627d62d"
+      }
+    },
+    {
+      "id": "27",
+      "code": "PT",
+      "name": "包包點心",
+      "food_menu_url": "https://www.skylark.co.jp/poupou/",
+      "table_orderable": true,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 18,
+      "color": {
+        "main_color": "#541b2c",
+        "gradient_from_color": "#eb5303",
+        "gradient_to_color": "#f9ccb2"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/99b282e7-a336-49f6-8d04-78a68b2baa5e",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/99b282e7-a336-49f6-8d04-78a68b2baa5e",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/99b282e7-d8d8-4c14-839e-24faeb98a57b"
+      }
+    },
+    {
+      "id": "23",
+      "code": "TN",
+      "name": "點心甜心",
+      "food_menu_url": "https://www.skylark.co.jp/tenshin/",
+      "table_orderable": true,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 19,
+      "color": {
+        "main_color": "#c30d23",
+        "gradient_from_color": "#c30d23",
+        "gradient_to_color": "#f4697a"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9991d913-a713-4b02-8a45-2a15371d9580",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9991d913-a713-4b02-8a45-2a15371d9580",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/93c804ce-c45f-43a7-a63a-16fc26e4fb06"
+      }
+    },
+    {
+      "id": "26",
+      "code": "HR",
+      "name": "八郎そば",
+      "food_menu_url": "https://www.skylark.co.jp/hachiro_soba/?utm_source=sk_app-banner-hr&utm_medium=sk_app&utm_campaign=-hr-20230614",
+      "table_orderable": true,
+      "app_table_payment": true,
+      "etc": false,
+      "order": 20,
+      "color": {
+        "main_color": "#000101",
+        "gradient_from_color": "#ffffff",
+        "gradient_to_color": "#d3ccc7"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9967eabe-db3f-46b1-af0c-d9efa3cc938c",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9967eabe-db3f-46b1-af0c-d9efa3cc938c",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/9967eabf-50d5-42c0-9bfa-0069c7f68ed9"
+      }
+    },
+    {
+      "id": "9",
+      "code": "FL",
+      "name": "FLO",
+      "food_menu_url": "https://www.flojapon.co.jp/productsearch.html",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 21,
+      "color": {
+        "main_color": "#840018",
+        "gradient_from_color": "#c53750",
+        "gradient_to_color": "#830118"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a405-a29b-482d-af4e-9b867e07ff6f",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a405-a29b-482d-af4e-9b867e07ff6f",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/8edae4f7-876d-4119-8f45-91d747e78eb1"
+      }
+    },
+    {
+      "id": "21",
+      "code": "NX",
+      "name": "ニラックスブッフェ",
+      "food_menu_url": "https://nilax.jp/",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 23,
+      "color": {
+        "main_color": "#2daee1",
+        "gradient_from_color": "#2daee1",
+        "gradient_to_color": "#8dd5ef"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8e9e5c17-6ba4-40d2-a6da-5d0c65584ec1",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8e9e5c17-6ba4-40d2-a6da-5d0c65584ec1",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/8edae697-c64d-4cf5-9690-8d0b378db3ec"
+      }
+    },
+    {
+      "id": "28",
+      "code": "PE",
+      "name": "ペルティカ",
+      "food_menu_url": "https://nilax.jp/pertica/",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 24,
+      "color": {
+        "main_color": "#616f67",
+        "gradient_from_color": "#c0d8ca",
+        "gradient_to_color": "#616f67"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9da06ded-6694-467c-afd6-268b8d89d649",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9da06dee-a12a-46e2-aae1-ea76972685c1",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/9da06dee-f5d7-4a04-b373-cd2961e106f5"
+      }
+    },
+    {
+      "id": "18",
+      "code": "JJ",
+      "name": "じゅうじゅうカルビ",
+      "food_menu_url": "https://www.tomato-a.co.jp/jyujyukarubi/tabehoudai/index.html",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 26,
+      "color": {
+        "main_color": "#ce3237",
+        "gradient_from_color": "#f26065",
+        "gradient_to_color": "#ce3237"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a58c-9001-4815-b565-b74a87157ce5",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/8ea4a58c-9001-4815-b565-b74a87157ce5",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/8edae61d-dff6-4957-b441-7e5d36e32bf1"
+      }
+    },
+    {
+      "id": "19",
+      "code": "TO",
+      "name": "トマトアンドオニオン",
+      "food_menu_url": "https://www.tomato-a.co.jp/tomatoonion/grand/index.html",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 27,
+      "color": {
+        "main_color": "#c9151e",
+        "gradient_from_color": "#ff575f",
+        "gradient_to_color": "#c9151e"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9c9a5d9b-0684-4518-be9f-322c32bf0df4",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9c9a5d9b-b684-42ce-8c2a-90bc7e6ffac7",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/8edae63d-f0de-4260-a51d-dea3dfe6ec60"
+      }
+    },
+    {
+      "id": "29",
+      "code": "SU",
+      "name": "資さんうどん",
+      "food_menu_url": "https://www.sukesanudon.com/",
+      "table_orderable": false,
+      "app_table_payment": false,
+      "etc": false,
+      "order": 28,
+      "color": {
+        "main_color": "#000000",
+        "gradient_from_color": "#71341f",
+        "gradient_to_color": "#000000"
+      },
+      "image": {
+        "small_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9e7bae4c-6bda-4105-b480-f47bf3e1fdc8",
+        "large_logo_url": "https://app-cms-storage.skylark-app.net/images/brand/9e7bae4d-034e-4ef1-8815-b091355e4e70",
+        "background_image_url": "https://app-cms-storage.skylark-app.net/images/brand/9e7bae4d-6904-43f8-a66d-3c83c3d6c63a"
+      }
+    }
+  ]
+}
